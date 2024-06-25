@@ -1,0 +1,18 @@
+#headingone{
+    text-decoration: line-through;
+}
+ul>li{
+    color: rgb(77, 22, 160);
+}
+
+img{
+    border-top: black 2px solid;
+    border-left: green 3px dotted;
+    border-bottom: red;
+    border-top-left-radius: 0cm;
+    shape-margin: 0vi;
+    
+    background-color: rgb(78, 17, 136);
+    padding-right: ;
+    margin: 100px;
+}
